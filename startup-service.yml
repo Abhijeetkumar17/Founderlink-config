@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/founderlink_startups
-    username: snehalsuman
-    password: Snehal@123
+    username: postgres
+    password: Abhi9693
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
